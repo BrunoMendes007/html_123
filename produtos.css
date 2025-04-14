@@ -21,14 +21,14 @@ nav a{
 nav{
     position: absolute;
     top:110px;
-    right:0;
+    right: 0;
 }
 .produtos{
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
 }
-.profdutos li{
+.produtos li{
     text-align: center;
     width: 30%;
     vertical-align: top;
